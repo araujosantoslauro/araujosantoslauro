@@ -7,7 +7,7 @@
 <br/>Meu linkedin:https://www.linkedin.com/in/lauro-ara%C3%BAjo-santos-339357173/
 <br/>Meu insta: @araujosantoslauro
 
-<br/>Busco novos desafios no mundo do desenvolviment, no momento com foco web
+<br/>Busco novos desafios no mundo do desenvolvimento, no momento com foco web
 <br/>Comecei na programação por conta de um gosto peculiar em estatística ao conhecer a linguagem R.
 <br/>Hoje estou estudando desenvolvimento web, para crescer meu leque de skills.
 <br/>Pretendo num futuro próximo retornar para meus estudos em estatística, e direcionar meu foco de programação para a analise de dados.
