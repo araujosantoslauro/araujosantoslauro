@@ -1,11 +1,10 @@
 # Lauro Araújo
 
-### Hi there 👋
+### Hi 👋
 
 
 <br/>Meu e-mail: araujosantoslauro@gmail.com
 <br/>Meu linkedin:https://www.linkedin.com/in/lauro-ara%C3%BAjo-santos-339357173/
-<br/>Meu insta: @araujosantoslauro
 
 <br/>Busco novos desafios no mundo do desenvolvimento, no momento com foco web
 <br/>Comecei na programação por conta de um gosto peculiar em estatística ao conhecer a linguagem R.
@@ -14,7 +13,6 @@
 <br/>Apesar de estar no começo, posso ajudar novatos com um pouco de lógica de programação, além de uma noção básica de JavaScript.
 
 <br/>Minha stack: JavaScript, Node.Js.
-<br/>
 
 
 
