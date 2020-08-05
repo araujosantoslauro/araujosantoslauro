@@ -8,7 +8,7 @@
 <br/>Meu insta: @araujosantoslauro
 
 <br/>Busco novos desafios no mundo do desenvolviment, no momento com foco web
-<br/>Comecei na programação por conta de um gosto peculiar em estatística ao conhece a linguagem R.
+<br/>Comecei na programação por conta de um gosto peculiar em estatística ao conhecer a linguagem R.
 <br/>Hoje estou estudando desenvolvimento web, para crescer meu leque de skills.
 <br/>Pretendo num futuro próximo retornar para meus estudos em estatística, e direcionar meu foco de programação para a analise de dados.
 <br/>Apesar de estar no começo, posso ajudar novatos com um pouco de lógica de programação, além de uma noção básica de JavaScript.
