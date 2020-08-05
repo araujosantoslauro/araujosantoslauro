@@ -2,17 +2,19 @@
 
 ### Hi there 👋
 
-Meu e-mail: araujosantoslauro@gmail.com
-Meu linkedin:https://www.linkedin.com/in/lauro-ara%C3%BAjo-santos-339357173/
-Meu insta: @araujosantoslauro
 
-No momento não estou trabalhando, o que me permite voltar para os estudos.
-Comecei na programação por conta de um gosto peculiar em estatística ao conhece a linguagem R.
-Hoje estou estudando desenvolvimento web, para crescer meu leque de skills.
-Pretendo num futuro próximo voltar para meus estudos em estatística, e voltar meu foco na programação para a analise de dados.
+<br/>Meu e-mail: araujosantoslauro@gmail.com
+<br/>Meu linkedin:https://www.linkedin.com/in/lauro-ara%C3%BAjo-santos-339357173/
+<br/>Meu insta: @araujosantoslauro
 
-Apesar de estar no começo, posso ajudar novatos com um pouco de lógica de programação, além de uma noção básica de JavaScript.
+<br/>Busco novos desafios no mundo do desenvolviment, no momento com foco web
+<br/>Comecei na programação por conta de um gosto peculiar em estatística ao conhece a linguagem R.
+<br/>Hoje estou estudando desenvolvimento web, para crescer meu leque de skills.
+<br/>Pretendo num futuro próximo retornar para meus estudos em estatística, e direcionar meu foco de programação para a analise de dados.
+<br/>Apesar de estar no começo, posso ajudar novatos com um pouco de lógica de programação, além de uma noção básica de JavaScript.
 
+<br/>Minha stack: JavaScript, Node.Js.
+<br/>
 
 
 
