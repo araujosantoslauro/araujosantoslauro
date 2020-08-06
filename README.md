@@ -12,7 +12,6 @@
 <br/>Pretendo num futuro próximo retornar para meus estudos em estatística, e direcionar meu foco de programação para a analise de dados.
 <br/>Apesar de estar no começo, posso ajudar novatos com um pouco de lógica de programação, além de uma noção básica de JavaScript.
 
-<br/>Minha stack: JavaScript, Node.Js.
 
 
 
